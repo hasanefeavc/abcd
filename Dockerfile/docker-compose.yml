@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  allure-ui :
+    image: "ubuntu:22.04"
+    ports:
+      - "5050:5050"
+
+

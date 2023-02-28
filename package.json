@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "allure-commandline": "^2.20.1"
+  },
+  "version": "2.13.0"
+}
